@@ -94,15 +94,7 @@ University of Allahabad
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vertigosheep&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vertigosheep&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
@@ -112,13 +104,7 @@ University of Allahabad
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vertigosheep&theme=tokyo-night"/>
-
-</p>
+### 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vertigosheep&theme=react-dark" /> </p>
 
 ---
 
